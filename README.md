@@ -12,7 +12,17 @@
 
 ## 6. Arrays
 
+- vector
+
 ## 7. Pointers and Strings I
+
+pointer指針
+
+```cpp
+// * : 指針變數
+int *x;
+*x = 0;
+```
 
 ## 8. Pointers and Strings II
 
