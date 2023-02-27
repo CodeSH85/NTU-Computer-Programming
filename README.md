@@ -2,11 +2,24 @@
 
 ## 1. Intro to computers and C++ programming
 
+`compile`
+
 ## 2. Control Structure I
 
 ## 3. Control Structure II
 
 ## 4. Function I
+
+```cpp
+// function prototype 函數原型
+int square(int);
+
+int x = 3;
+
+int square( x ) {
+  return x*x;
+}
+```
 
 ## 5. Function II
 
